@@ -12,10 +12,6 @@ function App() {
 
     <SignupData/>
 
-      {/* <NameList/> */}
-    {/* <Table />
-    className='bg-sky-200 h-full w-full' */}
-
       {/* <CardData /> */}
 
       {/* <ContactList/> */}
