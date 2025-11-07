@@ -11,9 +11,6 @@ const ContactList = () => {
         })
         console.log(isPresent);
         isPresent?alert(`This number ${number} is already saved.`):setnumbers((predata)=>([...predata,number]))
-        
-        // console.log(numbers);
-        
     }
 
     function deletenumber(ind){
@@ -23,14 +20,12 @@ const ContactList = () => {
         // console.log(temp);
         setnumbers([...temp])
     }
-
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 p-6">
             <div className="bg-white shadow-2xl rounded-2xl p-6 w-full max-w-md">
                 <h2 className="text-2xl font-semibold text-center text-gray-800 mb-6">
                     Contact Manager
                 </h2>
-                {/* Input Section */}
                 <div className="flex items-center gap-3 mb-6">
                     <input
                         type="text"
