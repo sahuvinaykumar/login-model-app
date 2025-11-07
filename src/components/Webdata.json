@@ -1,0 +1,68 @@
+[
+    {
+        "image": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
+        "title": "Netflix UK",
+        "country": "United Kingdom",
+        "contact": "Moddox Blockmore",
+        "email": "mblackmore@netflix.com",
+        "status": "Activated",
+        "activation": "11 Mar 2021",
+        "time": "9:37 AM",
+        "balance": "15,000.00"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+        "title": "Microsoft Corp",
+        "country": "United States",
+        "contact": "Sarah Johnson",
+        "email": "sjohnson@microsoft.com",
+        "status": "Activated",
+        "activation": "05 Feb 2022",
+        "time": "10:45 AM",
+        "balance": "27,500.00"
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw",
+        "title": "Google LLC",
+        "country": "United States",
+        "contact": "Robert Davis",
+        "email": "rdavis@google.com",
+        "status": "Pending",
+        "activation": "18 Aug 2023",
+        "time": "4:12 PM",
+        "balance": "12,000.00"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/G/01/poppin/DestinationPage/amazon-live-default.jpg",
+        "title": "Amazon India",
+        "country": "India",
+        "contact": "Priya Sharma",
+        "email": "psharma@amazon.in",
+        "status": "Activated",
+        "activation": "21 Nov 2021",
+        "time": "2:05 PM",
+        "balance": "9,850.00"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXLCpIq7QCGl8DHw9B6_UA7GqxKuQLRtLyGA&s",
+        "title": "Meta Platforms",
+        "country": "Ireland",
+        "contact": "Liam O'Connor",
+        "email": "liam.oconnor@meta.com",
+        "status": "Deactivated",
+        "activation": "02 Jan 2020",
+        "time": "11:00 AM",
+        "balance": "0.00"
+    },
+    {
+        "image": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/Airbnb.jpeg",
+        "title": "Airbnb Global",
+        "country": "France",
+        "contact": "Camille Dupont",
+        "email": "cdupont@airbnb.com",
+        "status": "Activated",
+        "activation": "13 Jul 2022",
+        "time": "7:30 PM",
+        "balance": "5,620.00"
+    }
+]
